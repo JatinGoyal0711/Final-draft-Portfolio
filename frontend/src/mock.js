@@ -4,115 +4,111 @@ export const projects = {
   longForm: [
     {
       id: 'lf1',
-      title: 'Project WALMSLEY',
-      description: 'Cinematic storytelling and visual effects',
-      videoId: 'llRjCSYhSME',
-      duration: '5:21'
+      title: 'There Real Plan was Something Else',
+      description: 'Documentary-style editing and narrative',
+      videoId: 'BBDINCmPQGY',
+      duration: 'Video'
     },
     {
       id: 'lf2',
-      title: 'VR Headset Meta Quest 3s Commercial Ad',
-      description: 'Product showcase with dynamic camera work',
-      videoId: 'gAw2U7-ZBis',
-      duration: '0:30'
+      title: 'Who is Helping Political Parties Win Elections?',
+      description: 'Documentary-style editing and political commentary',
+      videoId: 'uri6WqE-S0E',
+      duration: 'Video'
     },
     {
       id: 'lf3',
-      title: 'Office Tour | The Marketing Vlog',
-      description: 'Corporate video production and editing',
-      videoId: 'ieejEK9Psjs',
-      duration: '10:13'
+      title: 'Office Tour | The Aevy Studio Vlog',
+      description: 'Vlog style editing and studio tour',
+      videoId: '5TS7l_wrkIY',
+      duration: 'Video'
     },
     {
       id: 'lf4',
-      title: 'Article on Content Policies',
-      description: 'Educational content with motion graphics',
-      videoId: 'Unm9wBb5y98',
-      duration: '0:59'
+      title: 'Wait For It...',
+      description: 'I am Cooking Somthing Up',
+      thumbnail: '/Video 4.jpg'
     },
     {
       id: 'lf5',
-      title: 'Their Real Plan',
-      description: 'Documentary-style editing and narrative',
-      videoId: '7uweRhQYe3I',
-      duration: '0:59'
+      title: 'Wait For It...',
+      description: 'I am Cooking Somthing Up',
+      thumbnail: '/Video 5.jpg'
     },
     {
       id: 'lf6',
-      title: 'Modern house project',
-      description: 'Architectural visualization and color grading',
-      videoId: 'qiTIU6aAKB4',
-      duration: '0:46'
+      title: 'Wait For It...',
+      description: 'I am Cooking Somthing Up',
+      thumbnail: '/Video 6.jpg'
     }
   ],
   shortForm: [
     {
       id: 'sf1',
-      title: 'Why POGO Failed Its MAGIC',
-      description: 'Fast-paced storytelling with dynamic editing',
-      videoId: 'qdLv75veQ00',
-      duration: '0:59'
+      title: 'India is Building its First Bullet Train',
+      description: 'Short-form Fast-paced editing',
+      videoId: 'mUVotlSIkNQ',
+      duration: 'Short'
     },
     {
       id: 'sf2',
-      title: 'Mandir Jao aur Visa Pao',
-      description: 'Creative transition work and timing',
-      videoId: 'R-YcIG0ruYU',
-      duration: '0:46'
+      title: 'Why POGO Failed Its MAGIC',
+      description: 'Creative short-form storytelling',
+      videoId: '2AcR2qCm_OE',
+      duration: 'Short'
     },
     {
       id: 'sf3',
-      title: 'video 1 sample Final',
-      description: 'Social media optimized vertical content',
-      videoId: 'T7DXHguPzBY',
-      duration: '0:31'
+      title: 'Real Estate Project Showcase',
+      description: 'A simple effective real estate showcase video',
+      videoId: 'YYLwfwD8Pms',
+      duration: 'Short'
     },
     {
       id: 'sf4',
-      title: '2 Webpress Diwali',
-      description: 'Festival content with motion graphics',
-      videoId: 'e-tiQDmZB_c',
-      duration: '0:22'
+      title: 'Wait For It...',
+      description: 'I am Cooking Somthing Up',
+      thumbnail: '/Video 4.jpeg'
     }
   ],
   thumbnails: [
     {
       id: 'th1',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/rpau75o1_Thumbnail%202.png'
+      thumbnail: '/Quest 8 thumb.png'
     },
     {
       id: 'th2',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/l6sw19b7_Thumbnail%203.jpg'
+      thumbnail: '/Thumbnail 2.png'
     },
     {
       id: 'th3',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/m5dkkqnz_Thumbnail%204.jpg'
+      thumbnail: '/Thumbnail 3.jpg'
     },
     {
       id: 'th4',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/domtikmi_Thumbnail%206.jpg'
+      thumbnail: '/Thumbnail 4.jpg'
     },
     {
       id: 'th5',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/y6rw1uzr_Thumbnail%207.png'
+      thumbnail: '/Thumbnail 6.jpg'
     },
     {
       id: 'th6',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/rpau75o1_Thumbnail%202.png'
+      thumbnail: '/Thumbnail 7.png'
     }
   ],
   creative: [
     {
       id: 'cr1',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/dyxzrt24_Cash%20for%20cars%20Palmerston%C2%A0North%20logo.jpg'
+      thumbnail: '/New RH Homes 39 Millen.png'
     },
     {
       id: 'cr2',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/n5fxhc9k_Semoures%20Reliance%20home%20post%208-5-25.jpg'
+      thumbnail: '/Webpress Post 1.jpg'
     },
     {
       id: 'cr3',
-      thumbnail: 'https://customer-assets.emergentagent.com/job_motion-vault-2/artifacts/htzk2c02_b%20Post.jpg'
+      thumbnail: '/post Star Auto Dismantlers 4.jpg'
     }
   ]
 };
@@ -120,19 +116,19 @@ export const projects = {
 export const showreelVideos = [
   {
     id: 'sr1',
-    videoSrc: '/Animation1.mp4'
+    videoSrc: '/Collage Style2.mp4'
   },
   {
     id: 'sr2',
-    videoSrc: '/Animation1.mp4'
+    videoSrc: '/File Folder Animation.mp4'
   },
   {
     id: 'sr3',
-    videoSrc: '/Animation1.mp4'
+    videoSrc: '/Skill Project Clients.mp4'
   },
   {
     id: 'sr4',
-    videoSrc: '/Animation1.mp4'
+    videoSrc: '/Vox Style 2.mp4'
   }
 ];
 

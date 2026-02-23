@@ -48,7 +48,7 @@ const LazyYouTubeEmbed = ({ videoId, title, aspectRatio = '16/9', autoplay = fal
   return (
     <div className="youtube-iframe-wrapper" style={{ aspectRatio }}>
       <iframe
-        src={`https://www.youtube.com/embed/${videoId}?autoplay=${autoplay ? 1 : 0}&mute=${autoplay ? 1 : 0}&controls=1&modestbranding=1&rel=0&playlist=${loop ? videoId : ''}`}
+        src={`https://www.youtube.com/embed/${videoId}?autoplay=${autoplay ? 1 : 0}&mute=${autoplay ? 1 : 0}&controls=1&modestbranding=1&rel=0&showinfo=0`}
         title={title}
         frameBorder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

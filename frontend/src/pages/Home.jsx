@@ -299,7 +299,7 @@ const Home = () => {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                Let's Cook ⚡
+                Watch me Cook ⚡
               </motion.button>
             </motion.div>
           </motion.div>
@@ -418,8 +418,8 @@ const Home = () => {
                 whileInView={{ 
                   color: 'rgba(255, 255, 255, 1)',
                   transition: {
-                    delay: index * 0.15,
-                    duration: 0.5
+                    delay: index * 0.1,
+                    duration: 0.35
                   }
                 }}
                 viewport={{ amount: 0.8, once: false }}
@@ -541,15 +541,15 @@ const Home = () => {
           <h2 className="contact-title">{currentText}<span className="cursor-blink">|</span></h2>
           <p className="contact-subtitle">Make your videos work harder for you.</p>
           <div className="contact-buttons">
-            <a href="mailto:goyaljatin0711@gmail.com" className="contact-button">
+            <a href="mailto:jatinmotionlab@gmail.com" className="contact-button">
               <Mail size={20} />
               <span>EMAIL ME</span>
             </a>
-            <a href="https://www.instagram.com/jatin.goyal__711/" target="_blank" rel="noopener noreferrer" className="contact-button">
+            <a href="https://www.instagram.com/jatin.motionlab/" target="_blank" rel="noopener noreferrer" className="contact-button">
               <Instagram size={20} />
               <span>INSTAGRAM</span>
             </a>
-            <a href="https://www.linkedin.com/in/jatin-goyal-71869837b/" target="_blank" rel="noopener noreferrer" className="contact-button">
+            <a href="https://x.com/Jatinmotionlab" target="_blank" rel="noopener noreferrer" className="contact-button">
               <X size={20} />
               <span>KABUTAR</span>
             </a>
